@@ -1,8 +1,6 @@
 # jetblue
 A series of protractor tests assert page title and schedule a flight on the jet blue page.
 
-Series of tests using protractor testing framework for Angular JS applications
-
 Pre-requisites: 
 I am using Windows 10 enterprise on my machine.
 
