@@ -18,6 +18,6 @@ In your Command Prompt (Click on Windows Start button at the bottom left of the 
 
 In Command Prompt type in **webdriver-manager update** and press Enter In Command Prompt type in **webdriver-manager start** and press Enter to start Selenium Server
 
-Make sure you don’t terminate the session as it will close selenium server. But if you need to, just type **ctrl+c** and type ‘**y**’ to terminate the batch job. To launch tests type in protractor conf.js in your Visual Studio Code terminal and press Enter.
+Make sure you don’t terminate the session as it will close selenium server. But if you need to, just type **ctrl+c** and type ‘**y**’ to terminate the batch job. To launch tests type in **protractor conf.js** in your Visual Studio Code terminal and press Enter.
 
 Disclaimer: My test is failing because I am trying to figure out how to get the correct elements for departure and arrival date.The class is constantly changing. I will fix it soon.
